@@ -45,7 +45,7 @@ namespace FinalProject.Pages.Recipes
             
             
             
-            //CurrentIngredients = await _context.Ingredients.Include(ci => ci.RecipeIngredients).ThenInclude(ci => ci.RecipeID == id).ToListAsync();
+            CurrentIngredients = await _context.Ingredients.Include(ci => ci.RecipeIngredients).ThenInclude(ci => ci.Recipe).ToListAsync();
             
             
             

@@ -32,12 +32,12 @@
 
         <ul>
             @Html.DisplayNameFor(model => model.Recipe.RecipeIngredients):
-        @foreach(var i in Model.Recipe.RecipeIngredients)
+        @foreach(var i in Model.CurrentIngredients)
         {
             <form method="post">
                 
         <li>
-            @Html.DisplayFor(model => i.Ingredient.Name)
+            @Html.DisplayFor(model => i.Name)
         </li>
         </form>
         }
