@@ -1,0 +1,33 @@
+@page
+@model FinalProject.Users.UserModel
+@{
+    ViewData["Title"] = "Movie Index Page";
+}
+<h1 class="display-4">List all Users</h1>
+
+<hr>
+<div class="text-center">
+    <table class ="table">
+        <thead>
+            <tr>
+                <th scope = "col">#</th>
+                <th scope = "col">Name</th>
+                <th scope = "col">Recipe</th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach(var u in Model.Users)
+    {
+        <tr>
+            <th scope ="row">@Html.DisplayFor(modelItem => u.UserId)</th>
+            <td>@Html.DisplayFor(modelItem => u.Name)</td>
+            @foreach(var r in Model.Recipes)
+            {
+            <td>@Html.DisplayFor(modelItem => r.Name)</td>
+            }
+        </tr>
+    }
+    </tbody>
+    </table>
+
+</div>
