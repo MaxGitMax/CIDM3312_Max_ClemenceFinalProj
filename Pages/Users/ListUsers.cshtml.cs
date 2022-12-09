@@ -22,6 +22,6 @@ public class UserModel : PageModel
     public void OnGet()
     {
         Users = _context.Users.ToList();
-        Recipes = _context.Recipes.ToList();
+        
     }
 }

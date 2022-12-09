@@ -1,7 +1,7 @@
 @page
 @model FinalProject.Users.UserModel
 @{
-    ViewData["Title"] = "Movie Index Page";
+    ViewData["Title"] = "User Index Page";
 }
 <h1 class="display-4">List all Users</h1>
 
@@ -21,10 +21,6 @@
         <tr>
             <th scope ="row">@Html.DisplayFor(modelItem => u.UserId)</th>
             <td>@Html.DisplayFor(modelItem => u.Name)</td>
-            @foreach(var r in Model.Recipes)
-            {
-            <td>@Html.DisplayFor(modelItem => r.Name)</td>
-            }
         </tr>
     }
     </tbody>
