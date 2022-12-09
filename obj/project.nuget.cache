@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQdmJWoFVN6cFQcYegZvEPxt9i+fdFtbpaqul3Dmgw6eVYnn5iFmw4hXHBb79x2t4x86h6ZX4OjiHwsg65ByDg==",
+  "dgSpecHash": "eZvGSoocJ9jM80GQ26mugGPmO+hASuFU+EO753s08cqbyi7R2po7qctjsRJbxqwtx9SdOpjFwAaaQzEP+MMdDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\Exams\\FinalProject\\FinalProject.csproj",
+  "projectFilePath": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\MaxClemence_FinalProj\\CIDM3312_MaxClemenceFinalProj\\FinalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\max_c\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\max_c\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

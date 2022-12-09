@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalProject
 build_property.RootNamespace = FinalProject
-build_property.ProjectDir = C:\Users\max_c\Desktop\WTPrograming\ADV-BUS-BABY\Exams\FinalProject\
+build_property.ProjectDir = C:\Users\max_c\Desktop\WTPrograming\ADV-BUS-BABY\MaxClemence_FinalProj\CIDM3312_MaxClemenceFinalProj\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\max_c\Desktop\WTPrograming\ADV-BUS-BABY\Exams\FinalProject
+build_property.MSBuildProjectDirectory = C:\Users\max_c\Desktop\WTPrograming\ADV-BUS-BABY\MaxClemence_FinalProj\CIDM3312_MaxClemenceFinalProj
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Error.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Index.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Privacy.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Recipes/Create.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Recipes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Recipes/Delete.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Recipes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Recipes/Details.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Recipes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Recipes/Edit.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Recipes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Recipes/Index.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Recipes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Users/ListUsers.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Users/ListUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTGlzdFVzZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/_ViewImports.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/_ViewStart.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/Exams/FinalProject/Pages/Shared/_Layout.cshtml]
+[C:/Users/max_c/Desktop/WTPrograming/ADV-BUS-BABY/MaxClemence_FinalProj/CIDM3312_MaxClemenceFinalProj/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-srxpow6wk7

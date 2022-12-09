@@ -10816,11 +10816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\Exams\\FinalProject\\FinalProject.csproj",
+      "projectUniqueName": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\MaxClemence_FinalProj\\CIDM3312_MaxClemenceFinalProj\\FinalProject.csproj",
       "projectName": "FinalProject",
-      "projectPath": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\Exams\\FinalProject\\FinalProject.csproj",
+      "projectPath": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\MaxClemence_FinalProj\\CIDM3312_MaxClemenceFinalProj\\FinalProject.csproj",
       "packagesPath": "C:\\Users\\max_c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\Exams\\FinalProject\\obj\\",
+      "outputPath": "C:\\Users\\max_c\\Desktop\\WTPrograming\\ADV-BUS-BABY\\MaxClemence_FinalProj\\CIDM3312_MaxClemenceFinalProj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
